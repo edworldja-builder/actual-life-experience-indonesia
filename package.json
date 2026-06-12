@@ -1,0 +1,19 @@
+{
+  "name": "actual-life-experience-indonesia",
+  "version": "1.0.0",
+  "description": "Actual Life Experience Indonesia - Landing page with Vercel Speed Insights",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [
+    "speed-insights",
+    "vercel"
+  ],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.34.1",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
